@@ -1,10 +1,10 @@
-# AccessAI
+# Connect-Ai
 Be able to access an AI no matter if you have internet or not! (Message +1(450)-990-6969) (Inspired by Aleem's Search the Internet without The Internet)
 
 ## Inspiration
-Creating accessAI that works offline is a noble and inspiring goal, especially for those in third-world countries who may not have access to reliable internet. In many parts of the world, access to the internet is limited or non-existent, making it difficult for people to communicate and access information. However, even in these areas, people often have access to mobile phones, making SMS a crucial means of communication.
+Creating Connect-Ai that works offline is a noble and inspiring goal, especially for those in third-world countries who may not have access to reliable internet. In many parts of the world, access to the internet is limited or non-existent, making it difficult for people to communicate and access information. However, even in these areas, people often have access to mobile phones, making SMS a crucial means of communication.
 
-With AccessAI you have the potential to bridge the digital divide and bring the benefits of AI technology to people who may not have had access to it otherwise. With this app, people in third-world countries could communicate with friends and family, access information, and even receive personalized recommendations, all without the need for a stable internet connection.
+With Connect-Ai you have the potential to bridge the digital divide and bring the benefits of AI technology to people who may not have had access to it otherwise. With this app, people in third-world countries could communicate with friends and family, access information, and even receive personalized recommendations, all without the need for a stable internet connection.
 
 ## What it does
 
@@ -32,7 +32,7 @@ There are many things that [we] are proud of, such as the fact that everything w
 
 I learned that the loading for every website was fake and hardcoded… I also learned a lot about twilio integration and how Co:here’s generative models worked. Very fancy technologies going on there. I learned that Styling with tailwind was extremely difficult and that not being able to uncenter a div was very difficult. 
 
-## What's next for AccessAI
+## What's next for Connect-Ai
 
 Add more models, and make it international. I want to be able to incorporate a translate button but I would need to host it on a database to retrieve the previous message. Lots to come.
 
